@@ -1,0 +1,14 @@
+/home/deveeb/Csharp/new_project/bin/Debug/net8.0/new_project
+/home/deveeb/Csharp/new_project/bin/Debug/net8.0/new_project.deps.json
+/home/deveeb/Csharp/new_project/bin/Debug/net8.0/new_project.runtimeconfig.json
+/home/deveeb/Csharp/new_project/bin/Debug/net8.0/new_project.dll
+/home/deveeb/Csharp/new_project/bin/Debug/net8.0/new_project.pdb
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.AssemblyInfoInputs.cache
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.AssemblyInfo.cs
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.csproj.CoreCompileInputs.cache
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.dll
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/refint/new_project.dll
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.pdb
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/new_project.genruntimeconfig.cache
+/home/deveeb/Csharp/new_project/obj/Debug/net8.0/ref/new_project.dll

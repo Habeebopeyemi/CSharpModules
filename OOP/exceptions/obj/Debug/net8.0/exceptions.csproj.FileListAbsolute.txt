@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/OOP/exceptions/bin/Debug/net8.0/exceptions
+/home/deveeb/elev8/Csharp/OOP/exceptions/bin/Debug/net8.0/exceptions.deps.json
+/home/deveeb/elev8/Csharp/OOP/exceptions/bin/Debug/net8.0/exceptions.runtimeconfig.json
+/home/deveeb/elev8/Csharp/OOP/exceptions/bin/Debug/net8.0/exceptions.dll
+/home/deveeb/elev8/Csharp/OOP/exceptions/bin/Debug/net8.0/exceptions.pdb
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.dll
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/refint/exceptions.dll
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.pdb
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/exceptions.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/OOP/exceptions/obj/Debug/net8.0/ref/exceptions.dll

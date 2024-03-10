@@ -1,0 +1,14 @@
+/home/deveeb/Csharp/string_formatting/bin/Debug/net8.0/string_formatting
+/home/deveeb/Csharp/string_formatting/bin/Debug/net8.0/string_formatting.deps.json
+/home/deveeb/Csharp/string_formatting/bin/Debug/net8.0/string_formatting.runtimeconfig.json
+/home/deveeb/Csharp/string_formatting/bin/Debug/net8.0/string_formatting.dll
+/home/deveeb/Csharp/string_formatting/bin/Debug/net8.0/string_formatting.pdb
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.AssemblyInfoInputs.cache
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.AssemblyInfo.cs
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.csproj.CoreCompileInputs.cache
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.dll
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/refint/string_formatting.dll
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.pdb
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/string_formatting.genruntimeconfig.cache
+/home/deveeb/Csharp/string_formatting/obj/Debug/net8.0/ref/string_formatting.dll

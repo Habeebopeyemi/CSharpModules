@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/testproject/bin/Debug/net8.0/testproject
+/home/deveeb/elev8/Csharp/testproject/bin/Debug/net8.0/testproject.deps.json
+/home/deveeb/elev8/Csharp/testproject/bin/Debug/net8.0/testproject.runtimeconfig.json
+/home/deveeb/elev8/Csharp/testproject/bin/Debug/net8.0/testproject.dll
+/home/deveeb/elev8/Csharp/testproject/bin/Debug/net8.0/testproject.pdb
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.dll
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/refint/testproject.dll
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.pdb
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/testproject.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/testproject/obj/Debug/net8.0/ref/testproject.dll

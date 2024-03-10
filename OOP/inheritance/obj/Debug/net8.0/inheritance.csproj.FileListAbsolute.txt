@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/OOP/inheritance/bin/Debug/net8.0/inheritance
+/home/deveeb/elev8/Csharp/OOP/inheritance/bin/Debug/net8.0/inheritance.deps.json
+/home/deveeb/elev8/Csharp/OOP/inheritance/bin/Debug/net8.0/inheritance.runtimeconfig.json
+/home/deveeb/elev8/Csharp/OOP/inheritance/bin/Debug/net8.0/inheritance.dll
+/home/deveeb/elev8/Csharp/OOP/inheritance/bin/Debug/net8.0/inheritance.pdb
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.dll
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/refint/inheritance.dll
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.pdb
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/inheritance.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/OOP/inheritance/obj/Debug/net8.0/ref/inheritance.dll

@@ -1,0 +1,14 @@
+/home/deveeb/Csharp/controlstatement/bin/Debug/net8.0/controlstatement
+/home/deveeb/Csharp/controlstatement/bin/Debug/net8.0/controlstatement.deps.json
+/home/deveeb/Csharp/controlstatement/bin/Debug/net8.0/controlstatement.runtimeconfig.json
+/home/deveeb/Csharp/controlstatement/bin/Debug/net8.0/controlstatement.dll
+/home/deveeb/Csharp/controlstatement/bin/Debug/net8.0/controlstatement.pdb
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.AssemblyInfoInputs.cache
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.AssemblyInfo.cs
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.csproj.CoreCompileInputs.cache
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.dll
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/refint/controlstatement.dll
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.pdb
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/controlstatement.genruntimeconfig.cache
+/home/deveeb/Csharp/controlstatement/obj/Debug/net8.0/ref/controlstatement.dll

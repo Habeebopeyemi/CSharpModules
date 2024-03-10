@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/deveeb/Csharp/number_operations/number_operations.csproj": {}
+  },
+  "projects": {
+    "/home/deveeb/Csharp/number_operations/number_operations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/deveeb/Csharp/number_operations/number_operations.csproj",
+        "projectName": "number_operations",
+        "projectPath": "/home/deveeb/Csharp/number_operations/number_operations.csproj",
+        "packagesPath": "/home/deveeb/.nuget/packages/",
+        "outputPath": "/home/deveeb/Csharp/number_operations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/deveeb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/deveeb/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

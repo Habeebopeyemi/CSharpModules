@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/async_await/bin/Debug/net8.0/async_await
+/home/deveeb/elev8/Csharp/async_await/bin/Debug/net8.0/async_await.deps.json
+/home/deveeb/elev8/Csharp/async_await/bin/Debug/net8.0/async_await.runtimeconfig.json
+/home/deveeb/elev8/Csharp/async_await/bin/Debug/net8.0/async_await.dll
+/home/deveeb/elev8/Csharp/async_await/bin/Debug/net8.0/async_await.pdb
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.dll
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/refint/async_await.dll
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.pdb
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/async_await.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/async_await/obj/Debug/net8.0/ref/async_await.dll

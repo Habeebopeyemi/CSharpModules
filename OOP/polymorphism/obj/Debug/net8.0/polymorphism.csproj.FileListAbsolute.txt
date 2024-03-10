@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/OOP/polymorphism/bin/Debug/net8.0/polymorphism
+/home/deveeb/elev8/Csharp/OOP/polymorphism/bin/Debug/net8.0/polymorphism.deps.json
+/home/deveeb/elev8/Csharp/OOP/polymorphism/bin/Debug/net8.0/polymorphism.runtimeconfig.json
+/home/deveeb/elev8/Csharp/OOP/polymorphism/bin/Debug/net8.0/polymorphism.dll
+/home/deveeb/elev8/Csharp/OOP/polymorphism/bin/Debug/net8.0/polymorphism.pdb
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.dll
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/refint/polymorphism.dll
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.pdb
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/polymorphism.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/OOP/polymorphism/obj/Debug/net8.0/ref/polymorphism.dll

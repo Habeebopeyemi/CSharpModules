@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/OOP/interface/bin/Debug/net8.0/interface
+/home/deveeb/elev8/Csharp/OOP/interface/bin/Debug/net8.0/interface.deps.json
+/home/deveeb/elev8/Csharp/OOP/interface/bin/Debug/net8.0/interface.runtimeconfig.json
+/home/deveeb/elev8/Csharp/OOP/interface/bin/Debug/net8.0/interface.dll
+/home/deveeb/elev8/Csharp/OOP/interface/bin/Debug/net8.0/interface.pdb
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.dll
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/refint/interface.dll
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.pdb
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/interface.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/OOP/interface/obj/Debug/net8.0/ref/interface.dll

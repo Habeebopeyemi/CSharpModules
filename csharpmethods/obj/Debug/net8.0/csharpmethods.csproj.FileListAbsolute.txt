@@ -1,0 +1,14 @@
+/home/deveeb/Csharp/csharpmethods/bin/Debug/net8.0/csharpmethods
+/home/deveeb/Csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.deps.json
+/home/deveeb/Csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.runtimeconfig.json
+/home/deveeb/Csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.dll
+/home/deveeb/Csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.pdb
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.AssemblyInfoInputs.cache
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.AssemblyInfo.cs
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.csproj.CoreCompileInputs.cache
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.dll
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/refint/csharpmethods.dll
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.pdb
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.genruntimeconfig.cache
+/home/deveeb/Csharp/csharpmethods/obj/Debug/net8.0/ref/csharpmethods.dll

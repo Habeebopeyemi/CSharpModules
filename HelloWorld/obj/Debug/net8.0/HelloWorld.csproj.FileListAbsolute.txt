@@ -1,0 +1,14 @@
+/home/deveeb/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/deveeb/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/deveeb/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/deveeb/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/deveeb/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/deveeb/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/deveeb/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/deveeb/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

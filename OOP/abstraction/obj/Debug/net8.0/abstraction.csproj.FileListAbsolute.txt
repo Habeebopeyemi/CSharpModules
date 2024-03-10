@@ -1,0 +1,14 @@
+/home/deveeb/elev8/Csharp/OOP/abstraction/bin/Debug/net8.0/abstraction
+/home/deveeb/elev8/Csharp/OOP/abstraction/bin/Debug/net8.0/abstraction.deps.json
+/home/deveeb/elev8/Csharp/OOP/abstraction/bin/Debug/net8.0/abstraction.runtimeconfig.json
+/home/deveeb/elev8/Csharp/OOP/abstraction/bin/Debug/net8.0/abstraction.dll
+/home/deveeb/elev8/Csharp/OOP/abstraction/bin/Debug/net8.0/abstraction.pdb
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfoInputs.cache
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfo.cs
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.csproj.CoreCompileInputs.cache
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.dll
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/refint/abstraction.dll
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.pdb
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/abstraction.genruntimeconfig.cache
+/home/deveeb/elev8/Csharp/OOP/abstraction/obj/Debug/net8.0/ref/abstraction.dll
