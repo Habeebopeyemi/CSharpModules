@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Formats.Asn1.AsnWriter;
 
 // initialize variables - graded assignments 
 int currentAssignments = 5;
@@ -14,12 +15,16 @@ int[] studentScores = new int[10];
 string currentStudentLetterGrade = "";
 
 // Write the Report Header to the console
-Console.WriteLine("Student\t\tGrade\tLetter Grade\n");
+Console.WriteLine("Student\t\tExam Score\tOverall\tGrade\t\tExtra Credit\n");
 
 foreach (var name in studentNames)
 {
     string currentStudent = name;
     int gradedAssignments = 0;
+    int examScoreSum = 0;
+    decimal examScore = 0;
+    int extraCreditSum = 0;
+    decimal extraCredit = 0;    
 
     if (currentStudent == "Sophia")
     {
@@ -37,9 +42,13 @@ foreach (var name in studentNames)
 
     int sumAssignmentScores = 0;
     decimal currentStudentGrade = 0;
+    double points = 0;
 
     sumAssignmentScores = GetSum(studentScores);
     currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+    examScore = examScoreSum / currentAssignments;
+    extraCredit = extraCreditSum / (studentScores.Length - currentAssignments);
+    points = (double)(currentStudentGrade - examScore);
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -79,7 +88,7 @@ foreach (var name in studentNames)
 
     else
         currentStudentLetterGrade = "F";
-    Console.WriteLine($"{currentStudent}:\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+    Console.WriteLine($"{currentStudent}:\t\t{examScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t\t{extraCredit} ({points} pts)");
    
     int GetSum(int[] scores)
     {
@@ -88,9 +97,16 @@ foreach (var name in studentNames)
         {
             gradedAssignments += 1;
             if(gradedAssignments <= currentAssignments)
+            {
                 result += score;
+                examScoreSum += score;
+            }
             else
+            {
                 result += score/10;
+                extraCreditSum += score;
+            }
+                
         }
         return result;
     }
