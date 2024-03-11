@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\bin\Debug\net8.0\GradCalculations.exe
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\bin\Debug\net8.0\GradCalculations.deps.json
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\bin\Debug\net8.0\GradCalculations.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\bin\Debug\net8.0\GradCalculations.dll
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\bin\Debug\net8.0\GradCalculations.pdb
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.dll
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\refint\GradCalculations.dll
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.pdb
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\GradCalculations.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\GradCalculations\GradCalculations\obj\Debug\net8.0\ref\GradCalculations.dll
