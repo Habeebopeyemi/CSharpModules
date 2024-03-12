@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/deveeb/elev8/Csharp/testproject/testproject.csproj": {}
+    "C:\\Users\\opeye\\source\\repos\\CSharpModules\\testproject\\testproject.csproj": {}
   },
   "projects": {
-    "/home/deveeb/elev8/Csharp/testproject/testproject.csproj": {
+    "C:\\Users\\opeye\\source\\repos\\CSharpModules\\testproject\\testproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deveeb/elev8/Csharp/testproject/testproject.csproj",
+        "projectUniqueName": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\testproject\\testproject.csproj",
         "projectName": "testproject",
-        "projectPath": "/home/deveeb/elev8/Csharp/testproject/testproject.csproj",
-        "packagesPath": "/home/deveeb/.nuget/packages/",
-        "outputPath": "/home/deveeb/elev8/Csharp/testproject/obj/",
+        "projectPath": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\testproject\\testproject.csproj",
+        "packagesPath": "C:\\Users\\opeye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\testproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deveeb/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\opeye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

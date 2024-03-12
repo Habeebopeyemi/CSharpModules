@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = testproject
-build_property.ProjectDir = /home/deveeb/elev8/Csharp/testproject/
+build_property.ProjectDir = C:\Users\opeye\source\repos\CSharpModules\testproject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

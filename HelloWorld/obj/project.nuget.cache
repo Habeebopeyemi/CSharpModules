@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emgSVyrL3ZK6p7dohu/KjhFix/xDy5pXJ813UoO4T18zN21aOVbzZKJ7MtdZUKOOML4lqffZv59FzI+M/1+bIQ==",
+  "dgSpecHash": "EVhUkIP/R1iKCWjfrc+1dJYtAmC5QrwRaTb4iwIQ7VE79A9IM5DpwU4pegpDohwLjyLPMpFjZgt+J7RpC7MV4Q==",
   "success": true,
-  "projectFilePath": "/home/deveeb/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

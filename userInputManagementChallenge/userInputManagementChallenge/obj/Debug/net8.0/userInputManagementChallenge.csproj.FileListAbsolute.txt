@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\bin\Debug\net8.0\userInputManagementChallenge.exe
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\bin\Debug\net8.0\userInputManagementChallenge.deps.json
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\bin\Debug\net8.0\userInputManagementChallenge.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\bin\Debug\net8.0\userInputManagementChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\bin\Debug\net8.0\userInputManagementChallenge.pdb
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\refint\userInputManagementChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.pdb
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\userInputManagementChallenge.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\userInputManagementChallenge\userInputManagementChallenge\obj\Debug\net8.0\ref\userInputManagementChallenge.dll

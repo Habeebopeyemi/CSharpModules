@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\bin\Debug\net8.0\stringInputValidationChallenge.exe
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\bin\Debug\net8.0\stringInputValidationChallenge.deps.json
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\bin\Debug\net8.0\stringInputValidationChallenge.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\bin\Debug\net8.0\stringInputValidationChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\bin\Debug\net8.0\stringInputValidationChallenge.pdb
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\refint\stringInputValidationChallenge.dll
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.pdb
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\stringInputValidationChallenge.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\stringInputValidationChallenge\stringInputValidationChallenge\obj\Debug\net8.0\ref\stringInputValidationChallenge.dll

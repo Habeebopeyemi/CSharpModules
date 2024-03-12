@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/deveeb/HelloWorld/HelloWorld.csproj": {}
+    "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/deveeb/HelloWorld/HelloWorld.csproj": {
+    "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deveeb/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/deveeb/HelloWorld/HelloWorld.csproj",
-        "packagesPath": "/home/deveeb/.nuget/packages/",
-        "outputPath": "/home/deveeb/HelloWorld/obj/",
+        "projectPath": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\opeye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opeye\\source\\repos\\CSharpModules\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/deveeb/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\opeye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/deveeb/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
