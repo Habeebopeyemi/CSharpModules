@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\bin\Debug\net8.0\WorkingWithVariableData.exe
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\bin\Debug\net8.0\WorkingWithVariableData.deps.json
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\bin\Debug\net8.0\WorkingWithVariableData.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\bin\Debug\net8.0\WorkingWithVariableData.dll
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\bin\Debug\net8.0\WorkingWithVariableData.pdb
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.dll
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\refint\WorkingWithVariableData.dll
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.pdb
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\WorkingWithVariableData.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\WorkingWithVariableData\WorkingWithVariableData\obj\Debug\net8.0\ref\WorkingWithVariableData.dll

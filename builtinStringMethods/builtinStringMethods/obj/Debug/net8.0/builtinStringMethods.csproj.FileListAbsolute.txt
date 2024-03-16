@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\bin\Debug\net8.0\builtinStringMethods.exe
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\bin\Debug\net8.0\builtinStringMethods.deps.json
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\bin\Debug\net8.0\builtinStringMethods.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\bin\Debug\net8.0\builtinStringMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\bin\Debug\net8.0\builtinStringMethods.pdb
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\refint\builtinStringMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.pdb
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\builtinStringMethods.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\builtinStringMethods\builtinStringMethods\obj\Debug\net8.0\ref\builtinStringMethods.dll
