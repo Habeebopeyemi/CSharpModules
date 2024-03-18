@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkWithVariableDataGuidedProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3518c9976a1c48da4fc2da70bd61cc9b4e3b83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00590fda40e25fc2eba80861d421bd0733ea100c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkWithVariableDataGuidedProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkWithVariableDataGuidedProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
