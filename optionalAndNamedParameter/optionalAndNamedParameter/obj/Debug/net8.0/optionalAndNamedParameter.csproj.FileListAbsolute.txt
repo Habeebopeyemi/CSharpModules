@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\bin\Debug\net8.0\optionalAndNamedParameter.exe
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\bin\Debug\net8.0\optionalAndNamedParameter.deps.json
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\bin\Debug\net8.0\optionalAndNamedParameter.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\bin\Debug\net8.0\optionalAndNamedParameter.dll
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\bin\Debug\net8.0\optionalAndNamedParameter.pdb
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.dll
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\refint\optionalAndNamedParameter.dll
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.pdb
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\optionalAndNamedParameter.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\optionalAndNamedParameter\optionalAndNamedParameter\obj\Debug\net8.0\ref\optionalAndNamedParameter.dll
