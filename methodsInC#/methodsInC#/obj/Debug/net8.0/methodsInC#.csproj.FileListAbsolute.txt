@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\bin\Debug\net8.0\methodsInC#.exe
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\bin\Debug\net8.0\methodsInC#.deps.json
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\bin\Debug\net8.0\methodsInC#.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\bin\Debug\net8.0\methodsInC#.dll
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\bin\Debug\net8.0\methodsInC#.pdb
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.dll
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\refint\methodsInC#.dll
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.pdb
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\methodsInC#.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\methodsInC#\methodsInC#\obj\Debug\net8.0\ref\methodsInC#.dll
