@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\bin\Debug\net8.0\returnTypesInMethods.exe
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\bin\Debug\net8.0\returnTypesInMethods.deps.json
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\bin\Debug\net8.0\returnTypesInMethods.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\bin\Debug\net8.0\returnTypesInMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\bin\Debug\net8.0\returnTypesInMethods.pdb
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\refint\returnTypesInMethods.dll
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.pdb
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\returnTypesInMethods.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\returnTypesInMethods\returnTypesInMethods\obj\Debug\net8.0\ref\returnTypesInMethods.dll
