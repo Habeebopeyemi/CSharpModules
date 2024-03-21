@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\bin\Debug\net8.0\module5MiniGameProject.exe
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\bin\Debug\net8.0\module5MiniGameProject.deps.json
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\bin\Debug\net8.0\module5MiniGameProject.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\bin\Debug\net8.0\module5MiniGameProject.dll
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\bin\Debug\net8.0\module5MiniGameProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.dll
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\refint\module5MiniGameProject.dll
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\module5MiniGameProject.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\module5MiniGameProject\module5MiniGameProject\obj\Debug\net8.0\ref\module5MiniGameProject.dll
