@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\bin\Debug\net8.0\pettingZooProject.exe
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\bin\Debug\net8.0\pettingZooProject.deps.json
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\bin\Debug\net8.0\pettingZooProject.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\bin\Debug\net8.0\pettingZooProject.dll
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\bin\Debug\net8.0\pettingZooProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.dll
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\refint\pettingZooProject.dll
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\pettingZooProject.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\pettingZooProject\pettingZooProject\obj\Debug\net8.0\ref\pettingZooProject.dll
