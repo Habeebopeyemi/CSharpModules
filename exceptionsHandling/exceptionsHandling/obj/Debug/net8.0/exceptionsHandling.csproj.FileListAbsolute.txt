@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\bin\Debug\net8.0\exceptionsHandling.exe
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\bin\Debug\net8.0\exceptionsHandling.deps.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\bin\Debug\net8.0\exceptionsHandling.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\bin\Debug\net8.0\exceptionsHandling.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\bin\Debug\net8.0\exceptionsHandling.pdb
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\refint\exceptionsHandling.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.pdb
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\exceptionsHandling.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionsHandling\exceptionsHandling\obj\Debug\net8.0\ref\exceptionsHandling.dll

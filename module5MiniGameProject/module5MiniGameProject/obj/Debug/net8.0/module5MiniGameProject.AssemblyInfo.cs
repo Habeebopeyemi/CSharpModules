@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("module5MiniGameProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5a3ae7a8c936d60a955cfcec66b9fd0df9b0212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fbe36295fce25f6021a398ebac3f83efe7199fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("module5MiniGameProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("module5MiniGameProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\bin\Debug\net8.0\debuggingExercises.exe
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\bin\Debug\net8.0\debuggingExercises.deps.json
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\bin\Debug\net8.0\debuggingExercises.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\bin\Debug\net8.0\debuggingExercises.dll
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\bin\Debug\net8.0\debuggingExercises.pdb
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.dll
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\refint\debuggingExercises.dll
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.pdb
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\debuggingExercises.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\debuggingExercises\debuggingExercises\obj\Debug\net8.0\ref\debuggingExercises.dll
