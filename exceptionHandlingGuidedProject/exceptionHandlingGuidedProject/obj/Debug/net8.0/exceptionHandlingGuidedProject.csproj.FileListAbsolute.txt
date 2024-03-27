@@ -1,0 +1,15 @@
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\bin\Debug\net8.0\exceptionHandlingGuidedProject.exe
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\bin\Debug\net8.0\exceptionHandlingGuidedProject.deps.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\bin\Debug\net8.0\exceptionHandlingGuidedProject.runtimeconfig.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\bin\Debug\net8.0\exceptionHandlingGuidedProject.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\bin\Debug\net8.0\exceptionHandlingGuidedProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.AssemblyInfoInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.AssemblyInfo.cs
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.sourcelink.json
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\refint\exceptionHandlingGuidedProject.dll
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.pdb
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\exceptionHandlingGuidedProject.genruntimeconfig.cache
+C:\Users\opeye\source\repos\CSharpModules\exceptionHandlingGuidedProject\exceptionHandlingGuidedProject\obj\Debug\net8.0\ref\exceptionHandlingGuidedProject.dll
